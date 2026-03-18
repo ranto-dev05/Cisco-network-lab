@@ -2,6 +2,8 @@
 ## Description
 Basic network simulation using Cisco Packet Tracer done on class.
 
+## Topology
+![Network Topology] (topology.png)
 ## Features
 - IP addressing configuration
 - Basic routing
